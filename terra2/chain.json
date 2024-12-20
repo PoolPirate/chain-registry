@@ -401,10 +401,16 @@
   "description": "Fueled by a passionate community and deep developer talent pool, the Terra blockchain is built to enable the next generation of Web3 products and services.",
   "peers": {
     "seeds": [
-
+      {
+        "id": "ee6fe809365a3308b5f633c1876f512493c9f10e",
+        "address": "78.46.48.105:26656"
+      }
     ],
     "persistent_peers": [
-
+      {
+        "id": "ee6fe809365a3308b5f633c1876f512493c9f10e",
+        "address": "78.46.48.105:26656"
+      }
     ]
   },
   "apis": {
